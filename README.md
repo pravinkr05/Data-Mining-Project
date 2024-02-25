@@ -4,7 +4,7 @@ Welcome to our data mining algorithms repository! In this repository, you will f
 
 ## Introduction
 
-This repository is a collaborative effort between [Pravin Kumar](@..) and [Pulkit Kapoor](@..), created as part of our data mining classes. Our goal is to explore different data mining techniques, experiment with real-world datasets, and build models to analyze and extract valuable insights.
+This repository is a collaborative effort between [Pravin Kumar](https://github.com/pr093) and [Pulkit Kapoor](https://github.com/Pulkit2642), created as part of our data mining classes. Our goal is to explore different data mining techniques, experiment with real-world datasets, and build models to analyze and extract valuable insights.
 
 ## Project Structure
 
