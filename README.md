@@ -41,10 +41,6 @@ We welcome contributions from the community to enhance this repository. If you h
 
 4. Submit a pull request, providing a detailed contribution description.
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions, suggestions, or collaborations, feel free to reach out to us:
