@@ -1,0 +1,19 @@
+Bins:
+Bin 1 : [ 5  7  8 10 12]
+Bin 2 : [15 20 25]
+Bin 3 : [30 40 45]
+
+Bins after Smoothing by Mean, Median and Boundaries:
+Bin 1 (Mean): [8.4, 8.4, 8.4, 8.4, 8.4]
+Bin 1 (Median): [8.0, 8.0, 8.0, 8.0, 8.0]
+Bin 1 (Boundary): [5, 5, 5, 12, 12]
+
+
+Bin 2 (Mean): [20.0, 20.0, 20.0]
+Bin 2 (Median): [20.0, 20.0, 20.0]
+Bin 2 (Boundary): [15, 25, 25]
+
+
+Bin 3 (Mean): [38.333333333333336, 38.333333333333336, 38.333333333333336]
+Bin 3 (Median): [40.0, 40.0, 40.0]
+Bin 3 (Boundary): [30, 45, 45]
